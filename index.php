@@ -1,1 +1,1 @@
-fshfghfgdhgfdhgfdhfgdh
+echo "<?php phpinfo(); ?>"
